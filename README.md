@@ -5,6 +5,15 @@ All tasks are saved locally in `todo.json`, so they persist even after closing t
 
 ---
 
+## 📂 Repository
+👉 GitHub Repository:  
+https://github.com/YoussifKhaled77/todo_list_app/tree/main  
+
+👉 Project Idea Source (Task Tracker from roadmap.sh):  
+https://roadmap.sh/projects/task-tracker  
+
+---
+
 ## 🚀 Features
 - ➕ Add new tasks with optional due dates  
 - 👀 View all tasks in a clean interface  
@@ -13,12 +22,6 @@ All tasks are saved locally in `todo.json`, so they persist even after closing t
 - ✅ Mark tasks as done  
 - ⏰ Show overdue tasks  
 - 🌙 Dark-themed GUI  
-
----
-
-## 📂 Repository
-👉 GitHub Repository:  
-https://github.com/YoussifKhaled77/todo_list_app/tree/main  
 
 ---
 
