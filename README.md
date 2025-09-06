@@ -1,19 +1,30 @@
-# Tkinter To-Do List App 📝
+# 📝 Tkinter To-Do List App
 
-A simple To-Do List desktop application built with Python and Tkinter.  
-Tasks are saved in `todo.json` so they persist after closing the program.
+A simple **desktop To-Do List application** built with Python and Tkinter.  
+All tasks are saved locally in `todo.json`, so they persist even after closing the program.  
 
-## Features
-- Add, view, update, and delete tasks
-- Mark tasks as done
-- Display overdue tasks
-- GUI with dark theme
+---
 
-## Repository
-[GitHub Repository](https://github.com/YoussifKhaled77/todo_list_app)
+## 🚀 Features
+- ➕ Add new tasks with optional due dates  
+- 👀 View all tasks in a clean interface  
+- ✏️ Update task details (name or due date)  
+- ❌ Delete tasks  
+- ✅ Mark tasks as done  
+- ⏰ Show overdue tasks  
+- 🌙 Dark-themed GUI  
 
-## Run
-Clone the repository and run the app:
+---
+
+## 📂 Repository
+👉 GitHub Repository:  
+https://github.com/YoussifKhaled77/todo_list_app/tree/main  
+
+---
+
+## ▶️ Run the App
+
+Clone the repository and run the program:
 
 ```bash
 git clone https://github.com/YoussifKhaled77/todo_list_app.git
